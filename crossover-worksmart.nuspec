@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>crossover-worksmart</id>
+    <version>2.4.187.1904</version>
+    <packageSourceUrl>https://github.com/robmoss2k/crossover-worksmart</packageSourceUrl>
+    <owners>chocolatey-community,robmoss2k</owners>
+    <title>Crossover WorkSmart</title>
+    <authors>Crossover</authors>
+    <projectUrl>https://www.crossover.com/pages/worksmart-productivity-tool</projectUrl>
+    <iconUrl>https://www.crossover.com/assets/img/favicon.png</iconUrl>
+    <copyright>2021 Crossover</copyright>
+    <licenseUrl>https://www.crossover.com/pages/end-user-license-agreement</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <tags>crossover-worksmart crossover worksmart</tags>
+    <summary>WorkSmart Productivity Tool</summary>
+    <description>WorkSmart is Crossover's productivity tool, used by its contractors to track time and activity.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
